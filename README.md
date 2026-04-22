@@ -223,7 +223,7 @@ spring:
 ## 📊 API接口示例
 
 ### 用户登录
-```http
+``http
 POST /api/auth/login
 Content-Type: application/json
 
@@ -234,7 +234,7 @@ Content-Type: application/json
 ```
 
 ### 获取服务列表
-```http
+``http
 GET /api/services
 Authorization: Bearer {token}
 ```
@@ -268,7 +268,7 @@ npm run build
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
+本项目采用 [MIT 许可证](LICENSE)，详情请参见 [LICENSE](LICENSE) 文件。
 
 ## 📞 联系方式
 
